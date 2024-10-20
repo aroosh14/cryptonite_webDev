@@ -1,9 +1,5 @@
 ### HTML vs. CSS vs. JavaScript: A Comparison
 
-When building websites, three key programming languages are fundamental: **HTML**, **CSS**, and **JavaScript**. Each language serves a distinct purpose in web development, and together they form the basis of virtually every website.
-
----
-
 ### 1. **HTML: Structure & Layout**
 **HTML (Hypertext Markup Language)** is used to structure content on the web. It acts as the foundation of a webpage, organizing everything from text and images to links and headers. Essentially, HTML is responsible for arranging how content is presented on a webpage.
 
