@@ -110,17 +110,3 @@ Let’s add a heading to the `<body>` element, save the file, and reload it in y
 ```
 
 Now, when you refresh the page, you should see the heading “Hello, World!” displayed.
-
-## VSCode Shortcut for Boilerplate
-
-If you're using Visual Studio Code (VSCode), there's a handy shortcut to generate the boilerplate code for an HTML document. Simply type `!` in a blank HTML file and press `Enter`. This will automatically generate the basic structure for you, including:
-
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-```
-
-This `<meta>` tag is used for responsive design, which helps your website adjust to different screen sizes. We’ll dive into this later in the curriculum.
-
-Though this shortcut is convenient, it’s a good idea to manually write the boilerplate in your first few projects to get familiar with the structure.
-
---- 
