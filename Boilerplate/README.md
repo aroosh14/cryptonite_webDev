@@ -104,7 +104,7 @@ Let’s add a heading to the `<body>` element, save the file, and reload it in y
     <title>My First Webpage</title>
   </head>
   <body>
-    <h1>Hello, World!</h1>
+    <h1>Hello World!</h1>
   </body>
 </html>
 ```
