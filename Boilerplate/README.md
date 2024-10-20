@@ -110,3 +110,5 @@ Let’s add a heading to the `<body>` element, save the file, and reload it in y
 ```
 
 Now, when you refresh the page, you should see the heading “Hello, World!” displayed.
+![image](https://github.com/user-attachments/assets/85063e4d-b467-4747-ad48-f826301b1aee)
+
